@@ -46,6 +46,4 @@ Ai-Chat-Bot/
 ---- 
 
 🙋‍♂️ Author
-Jaren Tabutabo
-GitHub Profile
-Full Stack Developer 
+Jaren Tabutabo 
